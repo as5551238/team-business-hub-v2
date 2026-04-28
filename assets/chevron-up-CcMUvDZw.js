@@ -1,6 +1,1 @@
-import{c as o}from"./index-42kIKfQG.js";/**
- * @license lucide-react v1.8.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const c=[["path",{d:"m18 15-6-6-6 6",key:"153udz"}]],n=o("chevron-up",c);export{n as C};
+aW1wb3J0e2MgYXMgb31mcm9tIi4vaW5kZXgtNDJrSUtmUUcuanMiOy8qKgogKiBAbGljZW5zZSBsdWNpZGUtcmVhY3QgdjEuOC4wIC0gSVNDCiAqCiAqIFRoaXMgc291cmNlIGNvZGUgaXMgbGljZW5zZWQgdW5kZXIgdGhlIElTQyBsaWNlbnNlLgogKiBTZWUgdGhlIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhpcyBzb3VyY2UgdHJlZS4KICovY29uc3QgYz1bWyJwYXRoIix7ZDoibTE4IDE1LTYtNi02IDYiLGtleToiMTUzdWR6In1dXSxuPW8oImNoZXZyb24tdXAiLGMpO2V4cG9ydHtuIGFzIEN9Owo=

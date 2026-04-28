@@ -1,6 +1,1 @@
-import{c as t}from"./index-42kIKfQG.js";/**
- * @license lucide-react v1.8.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const o=[["path",{d:"M13 5h8",key:"a7qcls"}],["path",{d:"M13 12h8",key:"h98zly"}],["path",{d:"M13 19h8",key:"c3s6r1"}],["path",{d:"m3 17 2 2 4-4",key:"1jhpwq"}],["rect",{x:"3",y:"4",width:"6",height:"6",rx:"1",key:"cif1o7"}]],h=t("list-todo",o);export{h as L};
+aW1wb3J0e2MgYXMgdH1mcm9tIi4vaW5kZXgtNDJrSUtmUUcuanMiOy8qKgogKiBAbGljZW5zZSBsdWNpZGUtcmVhY3QgdjEuOC4wIC0gSVNDCiAqCiAqIFRoaXMgc291cmNlIGNvZGUgaXMgbGljZW5zZWQgdW5kZXIgdGhlIElTQyBsaWNlbnNlLgogKiBTZWUgdGhlIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhpcyBzb3VyY2UgdHJlZS4KICovY29uc3Qgbz1bWyJwYXRoIix7ZDoiTTEzIDVoOCIsa2V5OiJhN3FjbHMifV0sWyJwYXRoIix7ZDoiTTEzIDEyaDgiLGtleToiaDk4emx5In1dLFsicGF0aCIse2Q6Ik0xMyAxOWg4IixrZXk6ImMzczZyMSJ9XSxbInBhdGgiLHtkOiJtMyAxNyAyIDIgNC00IixrZXk6IjFqaHB3cSJ9XSxbInJlY3QiLHt4OiIzIix5OiI0Iix3aWR0aDoiNiIsaGVpZ2h0OiI2IixyeDoiMSIsa2V5OiJjaWYxbzcifV1dLGg9dCgibGlzdC10b2RvIixvKTtleHBvcnR7aCBhcyBMfTsK

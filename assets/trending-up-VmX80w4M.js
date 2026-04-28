@@ -1,6 +1,1 @@
-import{c as e}from"./index-42kIKfQG.js";/**
- * @license lucide-react v1.8.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const o=[["path",{d:"M16 7h6v6",key:"box55l"}],["path",{d:"m22 7-8.5 8.5-5-5L2 17",key:"1t1m79"}]],n=e("trending-up",o);export{n as T};
+aW1wb3J0e2MgYXMgZX1mcm9tIi4vaW5kZXgtNDJrSUtmUUcuanMiOy8qKgogKiBAbGljZW5zZSBsdWNpZGUtcmVhY3QgdjEuOC4wIC0gSVNDCiAqCiAqIFRoaXMgc291cmNlIGNvZGUgaXMgbGljZW5zZWQgdW5kZXIgdGhlIElTQyBsaWNlbnNlLgogKiBTZWUgdGhlIExJQ0VOU0UgZmlsZSBpbiB0aGUgcm9vdCBkaXJlY3Rvcnkgb2YgdGhpcyBzb3VyY2UgdHJlZS4KICovY29uc3Qgbz1bWyJwYXRoIix7ZDoiTTE2IDdoNnY2IixrZXk6ImJveDU1bCJ9XSxbInBhdGgiLHtkOiJtMjIgNy04LjUgOC41LTUtNUwyIDE3IixrZXk6IjF0MW03OSJ9XV0sbj1lKCJ0cmVuZGluZy11cCIsbyk7ZXhwb3J0e24gYXMgVH07Cg==
